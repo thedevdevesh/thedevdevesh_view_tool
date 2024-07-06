@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = 'Provides generated HTML data for Rails applications.'
   spec.homepage = 'https://github.com/thedevdevesh/thedevdevesh_view_tool'
   spec.required_ruby_version = '>= 2.6.0'
+  spec.license = 'MIT'
 
   spec.metadata['allowed_push_host'] = "TODO: Set to your gem server 'https://example.com'"
 
