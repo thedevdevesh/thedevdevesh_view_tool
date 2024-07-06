@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = 'various view specific methods for application I use.'
   spec.description = 'Provides generated HTML data for Rails applications.'
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage = 'https://github.com/thedevdevesh/thedevdevesh_view_tool'
   spec.required_ruby_version = '>= 2.6.0'
 
   spec.metadata['allowed_push_host'] = "TODO: Set to your gem server 'https://example.com'"
